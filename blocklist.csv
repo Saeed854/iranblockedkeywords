@@ -4,7 +4,6 @@ adultery+anyword,blocked
 adultporn,blocked
 adultporn+anyword,blocked
 akhond,blocked
-akhond+maybeword,blocked
 akhoond,blocked
 amateur,blocked
 amatuer,blocked
@@ -97,7 +96,6 @@ fucking+anyword,blocked
 fuckyou,blocked
 fuckyou+anyword,blocked
 gangbang,blocked
-gangbang+maybeword,blocked
 gay,blocked
 gayporn,blocked
 gayporn+anyword,blocked
@@ -169,14 +167,11 @@ pornlezbian,blocked
 pornlezbian+anyword,blocked
 porno,blocked
 porno+anyword,blocked
-pornolezbian,blocked
-pornolezbian+anyword,blocked
 pornographer,blocked
 pornographic,blocked
 pornographic+anyword,blocked
 pornography,blocked
 psiphon,blocked
-psiphon+maybeword,blocked
 puffin,blocked
 puffin+anyword,blocked
 pussy,blocked
