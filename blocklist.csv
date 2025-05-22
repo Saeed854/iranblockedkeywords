@@ -1,6 +1,8 @@
 keyword,notes
 adultery,blocked
 adultery+anyword,blocked
+adultmovie,blocked
+adultmovie+anyword,blocked
 adultporn,blocked
 adultporn+anyword,blocked
 akhond,blocked
